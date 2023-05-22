@@ -1,0 +1,11 @@
+# gg-tech-departmentX
+
+import antigravity
+
+SEED=41fe460a-c00b-4e2e-b3e9-97edf0d59585
+
+def main():
+    antigravity.fly()
+
+if __name__ == "__main__":
+    main()
